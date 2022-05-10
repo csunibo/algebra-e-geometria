@@ -1,11 +1,11 @@
-# \<Insegnamento\>
+# Algebra e Geometria
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
+Una raccolta di risorse per l'insegnamento di Algebra e geometria  del Corso di
 Laurea in Informatica.
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
+[Questo sito](https://csunibo.github.io/algebra-e-geometria) elenca staticamente
 i contenuti della raccolta. Qui, documenti e presentazioni con estensione
 `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
 convertiti in formato PDF.
@@ -19,12 +19,12 @@ essa sia specificata.
 
 Identificativo | Espressione regolare accettante i nomi dei contenuti
 -------------- | -----------------------------------------------------
-`appunti` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-Z]+`
-`esercizi` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-Z]+`
-`libri` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-Z]+`
-`lucidi` | `\d+-[a-z0-9]+(-[a-z0-9]+)*\.[a-Z]+`
-`prove`| `(scritto\|totale\|(parziale\d?)\|orale\|progetto)-((testo\|soluzione)-)?\d{4}-\d{2}-\d{2}(-[a-z0-9]+)*\.[a-Z]+`
-`varie` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-Z]+`
+`appunti` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-zA-Z]+`
+`esercizi` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-zA-Z]+`
+`libri` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-zA-Z]+`
+`lucidi` | `\d+-[a-z0-9]+(-[a-z0-9]+)*\.[a-zA-Z]+`
+`prove`| `(scritto\|totale\|(parziale\d?)\|orale\|progetto)-((testo\|soluzione)-)?\d{4}-\d{2}-\d{2}(-[a-z0-9]+)*\.[a-zA-Z]+`
+`varie` | `[a-z0-9]+(-[a-z0-9]+)*\.[a-zA-Z]+`
 
 Non sono ammessi:
 1. collegamenti pubblicitari o che puntano a risorse esterne non gratuite;
