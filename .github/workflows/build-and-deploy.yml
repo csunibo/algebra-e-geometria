@@ -12,3 +12,4 @@ jobs:
     uses: csunibo/config/.github/workflows/statik.yml@main
     with:
       regex_include: "\\.(pdf|link|txt|apkg)$"
+      redirect_libri: true
